@@ -1,0 +1,22 @@
+@media screen and (max-width : 750px) {
+    nav {
+        flex-direction: column;
+    }
+
+    .search {
+        display: none;
+    }
+
+    .img,
+    .img1,
+    .img2,
+    .img3 {
+        height: 22vh;
+    }
+
+    .prod-img {
+        display: inline-block;
+        width: 120px;
+        height: 80px;
+    }
+}
